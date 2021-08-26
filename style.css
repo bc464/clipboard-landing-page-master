@@ -161,12 +161,18 @@ p {
 	padding-bottom: 20px;
 	text-decoration: none;
 }
+a:hover {
+	color: #fff;
+}
 .links-install {
 	margin-top: -40px;
 }
 .social a {
 	padding-right: 30px;
 	color: #000;
+}
+.social a:hover {
+	color:hsl(171, 66%, 44%);
 }
 .row {
   display: flex;
